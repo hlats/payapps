@@ -58,7 +58,7 @@ const ClaimTable = (props) => {
 
             <div className='table-footer'>
                 <span className='label'><span className='text'>Total</span></span>
-                <span className='total'><span className=''>{claimData.total}</span></span>
+                <span className='total'><span>${claimData.total}</span></span>
             </div>
         </div>
     )
