@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/payapps/static/css/main.6acf3a8b.chunk.css",
+    "main.js": "/payapps/static/js/main.dcc67aee.chunk.js",
+    "main.js.map": "/payapps/static/js/main.dcc67aee.chunk.js.map",
+    "runtime-main.js": "/payapps/static/js/runtime-main.dc75ee33.js",
+    "runtime-main.js.map": "/payapps/static/js/runtime-main.dc75ee33.js.map",
+    "static/js/2.842c611a.chunk.js": "/payapps/static/js/2.842c611a.chunk.js",
+    "static/js/2.842c611a.chunk.js.map": "/payapps/static/js/2.842c611a.chunk.js.map",
+    "static/js/3.2e3462fd.chunk.js": "/payapps/static/js/3.2e3462fd.chunk.js",
+    "static/js/3.2e3462fd.chunk.js.map": "/payapps/static/js/3.2e3462fd.chunk.js.map",
+    "index.html": "/payapps/index.html",
+    "static/css/main.6acf3a8b.chunk.css.map": "/payapps/static/css/main.6acf3a8b.chunk.css.map",
+    "static/js/2.842c611a.chunk.js.LICENSE.txt": "/payapps/static/js/2.842c611a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc75ee33.js",
+    "static/js/2.842c611a.chunk.js",
+    "static/css/main.6acf3a8b.chunk.css",
+    "static/js/main.dcc67aee.chunk.js"
+  ]
+}
