@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Preview of app is at [https://hlats.github.io/payapps/](https://hlats.github.io/payapps/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
