@@ -1,0 +1,42 @@
+{
+    "claimNumber": 4,
+    "claimContents": [
+        {
+            "progress": "1",
+            "reference": "1.0",
+            "description": "East Wing",
+            "quantity": "20",
+            "unit": "m",
+            "rate": "12,000.00",
+            "value": "240,000.00"
+        },
+        {
+            "progress": "2",
+            "reference": "2.0",
+            "description": "West Wing",
+            "quantity": "",
+            "unit": "",
+            "rate": "",
+            "value": "72,100.00"
+        },
+        {
+            "progress": "3",
+            "reference": "3.0",
+            "description": "Chicken Wing",
+            "quantity": "5",
+            "unit": "items",
+            "rate": "500.00",
+            "value": "2,500.00"
+        },
+        {
+            "progress": "4",
+            "reference": "4.0",
+            "description": "Ding a Ling",
+            "quantity": "5",
+            "unit": "t",
+            "rate": "500.00",
+            "value": "2,500.00"
+        }
+    ],
+    "total": "317,100.00"
+}
